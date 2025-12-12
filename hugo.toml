@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Alexander Blatchford's Epic Website"
+title = "Alexander Blatchford's Epic Website and Mitch's Sack of Potatoes"
 theme = "ananke"
 [params]
   subtitle = "A guy who does some things"
