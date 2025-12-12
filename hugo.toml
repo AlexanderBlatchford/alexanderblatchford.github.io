@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Alexander Blatchford's Epic Website"
+theme = "ananke"
+[params]
+  subtitle = "A guy who does some things"
+  [params.contact]
+    email = "alexander.blatchford@gmail.com"

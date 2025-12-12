@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexander Blatchford&#39;s Epic Website</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Alexander Blatchford&#39;s Epic Website</description>
+    <title>Hobbies on Alexander Blatchford&#39;s Epic Website</title>
+    <link>http://localhost:1313/hobbies/</link>
+    <description>Recent content in Hobbies on Alexander Blatchford&#39;s Epic Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jul 2025 00:06:44 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hobbies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Piano</title>
       <link>http://localhost:1313/hobbies/piano/</link>
@@ -42,20 +42,6 @@
       <pubDate>Tue, 15 Jul 2025 00:06:10 +1000</pubDate>
       <guid>http://localhost:1313/hobbies/animelistandshows/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Machinelearning</title>
-      <link>http://localhost:1313/projects/machinelearning/</link>
-      <pubDate>Mon, 14 Jul 2025 23:28:52 +1000</pubDate>
-      <guid>http://localhost:1313/projects/machinelearning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 14 Jul 2025 21:37:58 +1000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hey, I am Alex and I created my first Hugo website deployment with &lt;strong&gt;GitHub Pages&lt;/strong&gt; and &lt;strong&gt;GitHub Actions.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I intend for this to host all sorts of details about me:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My projects&lt;/li&gt;&#xA;&lt;li&gt;My hobbies&lt;/li&gt;&#xA;&lt;li&gt;My progress&lt;/li&gt;&#xA;&lt;li&gt;My interests&lt;/li&gt;&#xA;&lt;li&gt;Literally anything else&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
